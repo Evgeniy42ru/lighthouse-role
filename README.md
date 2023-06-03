@@ -1,7 +1,7 @@
 Lighthouse
 =========
 
-This role can install Lighthouse on thr EL
+This role can install Lighthouse on the EL
 
 Role Variables
 --------------
